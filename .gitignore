@@ -1,0 +1,68 @@
+# User-specific configuration files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment-specific files
+*.vscode
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.opensdf
+*.local
+*.bak
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc]pu/
+[Ll]og/
+[Tt]est[Rr]esults/
+[Bb]uild[Ll]og.*
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds/
+src/**/bin/
+src/**/obj/
+
+# NuGet package directories
+packages/
+
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+
+# GhostDoc
+[Gg]host[Dd]oc*
+
+# User-specific Visual Studio settings
+*.suo
